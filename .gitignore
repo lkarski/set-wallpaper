@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/set-wallpaper/v14
+/bin/Debug
+/obj/Debug
+/set-wallpaper.csproj.user
